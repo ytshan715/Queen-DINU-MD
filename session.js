@@ -31,7 +31,7 @@
 //*
 //*
 //Base by dineth sathsara
-//GitHub: @dinuboy
+//GitHub: @dinuob
 //WhatsApp: +94701040265
 //Want more free bot scripts? Subscribe to my YouTube channel: https://youtube.com/@dinethsathsara-rl5yp?si=WPJjhU1J-Ihw8p2D
 //   * Created By GitHub: Dinuboy
